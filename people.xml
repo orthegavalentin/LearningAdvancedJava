@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<People>
+	<person >
+		<id>1</id>
+		<firstname>olivier</firstname>
+		<secondname>spinoza</secondname>
+
+
+
+	</person>
+	<person >
+		<id>2</id>
+		<firstname>iradukunda</firstname>
+		<secondname>valentin</secondname>
+
+
+
+	</person>
+
+	<person >
+		<id>8</id>
+		<firstname>brother </firstname>
+		<secondname>hitimana</secondname>
+
+
+
+	</person>
+
+
+
+
+</People>
+
+
+
+
