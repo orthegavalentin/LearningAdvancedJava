@@ -14,6 +14,7 @@ import java.util.ArrayList;
 
 public class ReadXMLFileJava {
     public static void main(String[] args) {
+        System.out.println("It is a godamn marathon baby");
 
         DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
         try {
